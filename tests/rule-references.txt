@@ -41,6 +41,7 @@ https://0xdf.gitlab.io/2018/11/08/powershell-history-file.html
 https://2019.offzone.moscow/ru/report/hunting-for-powershell-abuses/
 https://4sysops.com/archives/creating-a-complete-memory-dump-without-a-blue-screen/
 https://4sysops.com/archives/use-powershell-to-download-a-file-with-http-https-and-ftp/
+https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/
 https://aboutdfir.com/the-key-to-identify-psexec/
 https://abuse.io/lockergoga.txt
 https://academy.hackthebox.com/course/preview/active-directory-bloodhound/bloodhound--data-collection
@@ -175,6 +176,7 @@ https://awakesecurity.com/blog/threat-hunting-for-paexec/
 https://bad-jubies.github.io/RCE-NOW-WHAT/
 https://badoption.eu/blog/2023/01/31/code_c2.html
 https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
+https://bazaar.abuse.ch/browse/tag/one/
 https://bazaar.abuse.ch/sample/64e6605496919cd76554915cbed88e56fdec10dec6523918a631754664b8c8d3/
 https://bazaar.abuse.ch/sample/6f3aa9362d72e806490a8abce245331030d1ab5ac77e400dd475748236a6cc81/
 https://bazaar.abuse.ch/sample/8c75f8e94486f5bbf461505823f5779f328c5b37f1387c18791e0c21f3fdd576/
@@ -211,6 +213,7 @@ https://blog.cyble.com/2023/01/12/rhadamanthys-new-stealer-spreading-through-goo
 https://blog.cyble.com/2023/01/18/aurora-a-stealer-using-shapeshifting-tactics/
 https://blog.didierstevens.com/2015/03/16/quickpost-metasploit-user-agent-strings/
 https://blog.dylan.codes/evading-sysmon-and-windows-event-logging/
+https://blog.eclecticiq.com/china-nexus-nation-state-actors-exploit-sap-netweaver-cve-2025-31324-to-target-critical-infrastructures
 https://blog.eclecticiq.com/sandworm-apt-targets-ukrainian-users-with-trojanized-microsoft-kms-activation-tools-in-cyber-espionage-campaigns
 https://blog.emsisoft.com/en/32373/beware-new-wave-of-malware-spreads-via-iso-file-email-attachments/
 https://blog.f-secure.com/analysis-of-lockergoga-ransomware/
@@ -476,6 +479,7 @@ https://docs.aws.amazon.com/STS/latest/APIReference/API_GetSessionToken.html
 https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-instance
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
 https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
+https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/44546/44546-logid-event-config-attr
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
 https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise
@@ -1645,6 +1649,7 @@ https://github.com/topotam/PetitPotam
 https://github.com/topotam/PetitPotam/blob/d83ac8f2dd34654628c17490f99106eb128e7d1e/PetitPotam/PetitPotam.cpp
 https://github.com/trustedsec/SysmonCommunityGuide/blob/adcdfee20999f422b974c8d4149bf4c361237db7/chapters/file-stream-creation-hash.md
 https://github.com/Twigonometry/Cybersecurity-Notes/blob/c875b0f52df7d2c7a870e75e1f0c2679d417931d/Writeups/Hack%20the%20Box/Boxes/Optimum/10%20-%20Website.md
+https://github.com/TwoSevenOneT/EDR-Freeze/blob/a7f61030b36fbde89871f393488f7075d2aa89f6/EDR-Freeze.cpp#L53
 https://github.com/Tylous/ZipExec
 https://github.com/tyranid/DotNetToJScript
 https://github.com/usnistgov/macos_security/blob/932a51f3e819dd3e02ebfcf3ef433cfffafbe28b/rules/os/os_firmware_password_require.yaml
@@ -1744,6 +1749,7 @@ https://hijacklibs.net/entries/3rd_party/oracle/jli.html
 https://hijacklibs.net/entries/3rd_party/vlc/libvlc.html
 https://hijacklibs.net/entries/microsoft/built-in/dbgmodel.html
 https://hijacklibs.net/entries/microsoft/built-in/mscorsvc.html
+https://hopeness.medium.com/master-the-linux-mknod-command-a-comprehensive-guide-1c150a546aa8
 https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/cobalt-4-5-user-guide.pdf
 https://hunter2.gitbook.io/darthsidious/execution/responder-with-ntlm-relay-and-empire
 https://hunter2.gitbook.io/darthsidious/other/war-stories/domain-admin-in-30-minutes
@@ -1959,6 +1965,7 @@ https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/4464eaf0-f
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/d42db7d5-f141-4466-8f47-0a4be14e2fc1
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rrp/0fa3191d-bb79-490a-81bd-54c2601b7a78
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-srvs/02b1f559-fda2-4ba3-94c2-806eb2777183
+https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-wkst/55118c55-2122-4ef9-8664-0c1ff9e168f3
 https://learn.microsoft.com/en-us/outlook/troubleshoot/security/information-about-email-security-settings
 https://learn.microsoft.com/en-us/powershell/high-performance-computing/mpiexec?view=hpc19-ps
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomputer
@@ -2313,6 +2320,7 @@ https://man.openbsd.org/ssh_config#ProxyCommand
 https://man7.org/linux/man-pages/man1/ncat.1.html
 https://man7.org/linux/man-pages/man1/passwd.1.html
 https://man7.org/linux/man-pages/man2/mknod.2.html
+https://man7.org/linux/man-pages/man2/syslog.2.html
 https://man7.org/linux/man-pages/man7/bpf-helpers.7.html
 https://man7.org/linux/man-pages/man8/getcap.8.html
 https://man7.org/linux/man-pages/man8/kmod.8.html
@@ -2596,6 +2604,7 @@ https://redmimicry.com
 https://redmimicry.com/posts/redmimicry-winnti/
 https://redmimicry.com/posts/redmimicry-winnti/#dropper
 https://regex101.com/r/RugQYK/1
+https://reliaquest.com/blog/threat-spotlight-cve-2025-54309-crushftp-exploit/
 https://renenyffenegger.ch/notes/Windows/registry/tree/HKEY_CURRENT_USER/Keyboard-Layout/Preload/index
 https://reqrypt.org/windivert-doc.html
 https://res.armor.com/resources/threat-intelligence/astaroth-banking-trojan/
@@ -2641,6 +2650,7 @@ https://rvsec0n.wordpress.com/2020/01/24/malwares-that-bypass-windows-defender/
 https://s3cur3th1ssh1t.github.io/Bypass_AMSI_by_manual_modification/
 https://s3cur3th1ssh1t.github.io/SharpImpersonation-Introduction/
 https://scriptingosx.com/2018/08/user-interaction-from-bash-scripts/
+https://sdmsoftware.com/general-stuff/launching-the-new-gp-management-editor-from-the-command-line/
 https://sec-consult.com/blog/detail/bumblebee-hunting-with-a-velociraptor/
 https://sec-consult.com/blog/detail/pentesters-windows-ntfs-tricks-collection/
 https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-webui-privesc-j22SaA4z
@@ -2658,6 +2668,7 @@ https://securelist.com/chafer-used-remexi-malware/89538/
 https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/
 https://securelist.com/faq-the-projectsauron-apt/75533/
 https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/
+https://securelist.com/key-group-ransomware-samples-and-telegram-schemes/114025/
 https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/
 https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/
 https://securelist.com/locked-out/68960/
@@ -2812,6 +2823,7 @@ https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwi
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/yanluowang-ransomware-attacks-continue
 https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new-apt-attacks-asia
+https://sysdig.com/blog/detecting-and-mitigating-cve-2024-12084-rsync-remote-code-execution/
 https://sysdig.com/blog/mitre-defense-evasion-falco
 https://systeminformer.sourceforge.io/
 https://t.co/ezOTGy1a1G
@@ -3380,6 +3392,7 @@ https://wazuh.com/blog/detecting-xll-files-used-for-dropping-fin7-jssloader-with
 https://web.archive.org/web/20160928212230/https://www.adaptforward.com/2016/09/using-netshell-to-execute-evil-dlls-and-persist-on-a-host/
 https://web.archive.org/web/20170319121015/http://www.threatgeek.com/2017/03/widespread-exploitation-attempts-using-cve-2017-5638.html
 https://web.archive.org/web/20170715043507/http://www.exploit-monday.com/2016/08/windbg-cdb-shellcode-runner.html
+https://web.archive.org/web/20170909091934/https://blog.binarydefense.com/reliably-detecting-pass-the-hash-through-event-log-analysis
 https://web.archive.org/web/20171001085340/https://subt0x10.blogspot.com/2017/04/bypass-application-whitelisting-script.html
 https://web.archive.org/web/20171113231705/https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks
 https://web.archive.org/web/20180331144337/https://www.fireeye.com/blog/threat-research/2018/03/sanny-malware-delivery-method-updated-in-recently-observed-attacks.html
@@ -3476,6 +3489,7 @@ https://www.atomicredteam.io/atomic-red-team/atomics/T1048.003#atomic-test-8---p
 https://www.atomicredteam.io/atomic-red-team/atomics/T156001#atomic-test-46---aws---guardduty-suspension-or-deletion
 https://www.atomicredteam.io/atomic-red-team/atomics/T1562.002#atomic-test-8---modify-event-log-channel-access-permissions-via-registry---powershell
 https://www.atomicredteam.io/atomic-red-team/atomics/T1562.012
+https://www.attackiq.com/2023/09/20/emulating-rhysida/
 https://www.autohotkey.com/download/
 https://www.autoitscript.com/site/
 https://www.beyondtrust.com/blog/entry/okta-support-unit-breach
@@ -3495,6 +3509,7 @@ https://www.bleepingcomputer.com/news/microsoft/microsoft-sysmon-now-detects-mal
 https://www.bleepingcomputer.com/news/microsoft/new-windows-zero-day-with-public-exploit-lets-you-become-an-admin/
 https://www.bleepingcomputer.com/news/security/amazons-aws-ssm-agent-can-be-used-as-post-exploitation-rat-malware/
 https://www.bleepingcomputer.com/news/security/anydesk-says-hackers-breached-its-production-servers-reset-passwords/
+https://www.bleepingcomputer.com/news/security/centrestack-rce-exploited-as-zero-day-to-breach-file-sharing-servers/
 https://www.bleepingcomputer.com/news/security/exploited-windows-zero-day-lets-javascript-files-bypass-security-warnings/
 https://www.bleepingcomputer.com/news/security/fortinet-says-ssl-vpn-pre-auth-rce-bug-is-exploited-in-attacks/
 https://www.bleepingcomputer.com/news/security/gootkit-malware-bypasses-windows-defender-by-setting-path-exclusions/
@@ -3603,6 +3618,7 @@ https://www.elastic.co/guide/en/security/current/linux-restricted-shell-breakout
 https://www.elastic.co/guide/en/security/current/microsoft-iis-connection-strings-decryption.html
 https://www.elastic.co/guide/en/security/current/microsoft-iis-service-account-password-dumped.html
 https://www.elastic.co/guide/en/security/current/potential-invoke-mimikatz-powershell-script.html#potential-invoke-mimikatz-powershell-script
+https://www.elastic.co/guide/en/security/current/potential-non-standard-port-ssh-connection.html
 https://www.elastic.co/guide/en/security/current/potential-remote-desktop-tunneling-detected.html
 https://www.elastic.co/guide/en/security/current/privilege-escalation-via-named-pipe-impersonation.html
 https://www.elastic.co/guide/en/security/current/remote-file-copy-to-a-hidden-share.html
@@ -4172,6 +4188,7 @@ https://www.virustotal.com/gui/file/d72af640b71b8e3eca3eba660dd7c7f029ff8852bcac
 https://www.virustotal.com/gui/file/d9669f7e3eb3a9cdf6a750eeb2ba303b5ae148a43e36546896f1d1801e912466
 https://www.virustotal.com/gui/file/ded20df574b843aaa3c8e977c2040e1498ae17c12924a19868df5b12dee6dfdd
 https://www.virustotal.com/gui/file/e841675a4b82250c75273ebf0861245f80c6a1c3d5803c2d995d9d3b18d5c4b5/detection
+https://www.virustotal.com/gui/file/f9710b0ba4de5fa0e7ec27da462d4d2fc6838eba83a19f23f6617a466bbad457
 https://www.virustotal.com/gui/file/fa71eee906a7849ba3f4bab74edb577bd1f1f8397ca428591b4a9872ce1f1e9b/behavior
 https://www.virustotal.com/gui/file/fab408536aa37c4abc8be97ab9c1f86cb33b63923d423fdc2859eb9d63fa8ea0/community
 https://www.virustotal.com/gui/file/fc614fb4bda24ae8ca2c44e812d12c0fab6dd7a097472a35dd12ded053ab8474
@@ -4231,6 +4248,7 @@ https://www.zerodayinitiative.com/advisories/ZDI-23-491/
 https://www.zerodayinitiative.com/blog/2019/11/19/thanksgiving-treat-easy-as-pie-windows-7-secure-desktop-escalation-of-privilege
 https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server
 https://www.zerodayinitiative.com/blog/2023/4/21/tp-link-wan-side-vulnerability-cve-2023-1389-added-to-the-mirai-botnet-arsenal
+https://www.zerosalarium.com/2025/09/Dumping-LSASS-With-WER-On-Modern-Windows-11.html
 https://www.zoocoup.org/casper/jamf_cheatsheet.pdf
 https://www.zscaler.com/blogs/security-research/ffdroider-stealer-targeting-social-media-platform-users
 https://www.zscaler.com/blogs/security-research/new-espionage-attack-molerats-apt-targeting-users-middle-east
