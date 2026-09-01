@@ -55,6 +55,7 @@ https://admx.help/?Category=Office2016&Policy=office16.Office.Microsoft.Policies
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.ControlPanelDisplay::CPL_Personalization_NoDesktopBackgroundUI
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_IncludeUnspecifiedLocalSites
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_ProxyByPass
+https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::SecurityPage_AutoDetect
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.PowerShell::EnableScripts
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.WindowsDesktop::Wallpaper
 https://admx.help/?Category=Windows_7_2008R2&Policy=Microsoft.Policies.InternetCommunicationManagement::EventViewer_DisableLinks
@@ -211,6 +212,7 @@ https://blog.cyble.com/2023/01/12/rhadamanthys-new-stealer-spreading-through-goo
 https://blog.cyble.com/2023/01/18/aurora-a-stealer-using-shapeshifting-tactics/
 https://blog.didierstevens.com/2015/03/16/quickpost-metasploit-user-agent-strings/
 https://blog.dylan.codes/evading-sysmon-and-windows-event-logging/
+https://blog.eclecticiq.com/china-nexus-nation-state-actors-exploit-sap-netweaver-cve-2025-31324-to-target-critical-infrastructures
 https://blog.eclecticiq.com/sandworm-apt-targets-ukrainian-users-with-trojanized-microsoft-kms-activation-tools-in-cyber-espionage-campaigns
 https://blog.emsisoft.com/en/32373/beware-new-wave-of-malware-spreads-via-iso-file-email-attachments/
 https://blog.f-secure.com/analysis-of-lockergoga-ransomware/
@@ -332,6 +334,7 @@ https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-c
 https://clement.notin.org/blog/2020/09/12/CVE-2020-7315-McAfee-Agent-DLL-injection/
 https://cloud.google.com/access-context-manager/docs/audit-logging
 https://cloud.google.com/binary-authorization
+https://cloud.google.com/blog/topics/threat-intelligence/evolution-of-fin7/
 https://cloud.google.com/dlp/docs/reference/rest/v2/projects.content/reidentify
 https://cloud.google.com/dns/docs/reference/v1/managedZones
 https://cloud.google.com/iam/docs/reference/rest/v1/projects.serviceAccounts
@@ -401,6 +404,7 @@ https://decoded.avast.io/martinchlumecky/png-steganography/
 https://decoded.avast.io/threatintel/apt-treasure-trove-avast-suspects-chinese-apt-group-mustang-panda-is-collecting-data-from-burmese-government-agencies-and-opposition-groups/
 https://defr0ggy.github.io/research/Abusing-Cloudflared-A-Proxy-Service-To-Host-Share-Applications/
 https://defr0ggy.github.io/research/Utilizing-BTunnel-For-Data-Exfiltration/
+https://detect.fyi/hunting-fileless-malware-in-the-windows-registry-1339ccde00ad
 https://dev.to/0xbf/use-mkfifo-to-create-named-pipe-linux-tips-5bbk
 https://devblogs.microsoft.com/oldnewthing/20100312-01/?p=14623
 https://devblogs.microsoft.com/scripting/determine-pending-reboot-statuspowershell-style-part-1/
@@ -410,6 +414,7 @@ https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-p
 https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/StartupItems.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_network.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_storage.html
+https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_system.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_vm.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_vsan.html
 https://developer.okta.com/docs/reference/api/event-types/
@@ -855,6 +860,7 @@ https://github.com/BloodHoundAD/BloodHound
 https://github.com/BloodHoundAD/BloodHound/blob/0927441f67161cc6dc08a53c63ceb8e333f55874/Collectors/AzureHound.ps1
 https://github.com/BloodHoundAD/SharpHound
 https://github.com/BloodHoundAD/SharpHound3/blob/7d96b991b1887ff50349ce59c80980bc0d95c86a/SharpHound3/LdapBuilder.cs
+https://github.com/bobby-tablez/TTP-Threat-Feeds/blob/45398914e631f8372c3a9fbcd339ff65ffff1b17/results/2025/10/20251001-161956-trendmicro-atomic-macos-stealer-(amos).yml#L36
 https://github.com/bohops/WSMan-WinRM
 https://github.com/boku7/injectAmsiBypass
 https://github.com/boku7/spawn
@@ -1141,6 +1147,7 @@ https://github.com/nasbench/EVTX-ETW-Resources/blob/7a806a148b3d9d381193d4a80356
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/1803/W10_1803_Pro_19700101_17134.1/WEPExplorer/Application%20Popup.xml#L36
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/22H2/W10_22H2_Pro_20230321_19045.2728/WEPExplorer/LsaSrv.xml
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows11/22H2/W11_22H2_Pro_20221220_22621.963/WEPExplorer/Microsoft-Windows-MsiServer.xml
+https://github.com/nasbench/Misc-Research/blob/2f651ede832ab34027a7ba005b63bb78f1ade378/Other/React-Next-Child-Processes-Notes.md
 https://github.com/nasbench/Misc-Research/blob/8ee690e43a379cbce8c9d61107442c36bd9be3d3/Other/Undocumented-Flags-Sdbinst.md
 https://github.com/nasbench/Misc-Research/blob/b20da2336de0f342d31ef4794959d28c8d3ba5ba/ETW/Microsoft-Windows-Kernel-General.md
 https://github.com/nasbench/Misc-Research/blob/d114d6a5e0a437d3818e492ef9864367152543e7/Other/Persistence-Via-RegisterAppRestart-Shim.md
@@ -1670,6 +1677,7 @@ https://github.com/Wh04m1001/DiagTrackEoP/blob/3a2fc99c9700623eb7dc7d4b5f314fd9c
 https://github.com/Wh04m1001/IDiagnosticProfileUAC
 https://github.com/Wh04m1001/SysmonEoP
 https://github.com/WickdDavid/CVE-2021-26814/blob/6a17355a10ec4db771d0f112cbe031e418d829d5/PoC.py
+https://github.com/wietze/HijackLibs/tree/dc9c9f2f94e6872051dab58fbafb043fdd8b4176/yml/3rd_party/python
 https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC
 https://github.com/win3zz/CVE-2023-25157
 https://github.com/win3zz/CVE-2023-43261
@@ -1810,6 +1818,7 @@ https://krebsonsecurity.com/2018/06/bad-men-at-work-please-dont-click/
 https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
 https://kubernetes.io/docs/concepts/workloads/controllers/job/
 https://kubernetes.io/docs/reference/access-authn-authz/rbac/
+https://kubernetes.io/docs/reference/config-api/apiserver-audit.v1/
 https://kubernetes.io/docs/reference/kubernetes-api/authorization-resources/cluster-role-v1/#ClusterRole
 https://kubernetes.io/docs/tasks/manage-kubernetes-objects/update-api-object-kubectl-patch
 https://lab52.io/blog/2344-2/
@@ -1847,6 +1856,7 @@ https://learn.microsoft.com/en-us/archive/blogs/jonathantrull/detecting-sticky-k
 https://learn.microsoft.com/en-us/archive/blogs/pki/basic-crl-checking-with-certutil
 https://learn.microsoft.com/en-us/azure/active-directory/architecture/security-operations-user-accounts#unusual-sign-ins
 https://learn.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-userstates
+https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-monitor-federation-changes
 https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks#activity-from-anonymous-ip-address
 https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks#anomalous-token
 https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks#anomalous-user-activity
@@ -2059,6 +2069,7 @@ https://learn.microsoft.com/en-us/troubleshoot/windows-server/remote/remove-entr
 https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/kdc-event-16-27-des-encryption-disabled
 https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/prevent-windows-store-lm-hash-password
 https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
+https://learn.microsoft.com/en-us/visualstudio/debugger/debug-using-the-just-in-time-debugger?view=vs-2019
 https://learn.microsoft.com/en-us/visualstudio/deployment/how-to-configure-the-clickonce-trust-prompt-behavior
 https://learn.microsoft.com/en-us/windows-hardware/customize/desktop/unattend/security-malware-windows-defender-threatseveritydefaultaction
 https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options
@@ -2376,6 +2387,7 @@ https://micahbabinski.medium.com/detecting-onenote-one-malware-delivery-407e9321
 https://micahbabinski.medium.com/search-ms-webdav-and-chill-99c5b23ac462
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/container%20service%20account/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Data%20destruction/
+https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Delete%20K8S%20events/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Exec%20into%20container/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Pod%20or%20container%20name%20similarily/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Sidecar%20Injection/
@@ -2428,10 +2440,12 @@ https://news.sophos.com/en-us/2023/04/19/aukill-edr-killer-malware-abuses-proces
 https://news.sophos.com/en-us/2024/06/05/operation-crimson-palace-a-technical-deep-dive
 https://newtonpaul.com/analysing-fileless-malware-cobalt-strike-beacon/
 https://ngrok.com/
+https://ngrok.com/blog-post/new-ngrok-domains
 https://ngrok.com/docs
 https://ngrok.com/docs/secure-tunnels/tunnels/ssh-reverse-tunnel-agent
 https://nmap.org/
 https://nmap.org/ncat/
+https://nodejs.org/api/child_process.html#class-childprocess
 https://nodejs.org/api/cli.html
 https://nored0x.github.io/red-teaming/office-persistence/#what-is-a-wll-file
 https://notebook.community/Cyb3rWard0g/HELK/docker/helk-jupyter/notebooks/sigma/proxy_ursnif_malware
@@ -2470,6 +2484,7 @@ https://onapsis.com/blog/active-exploitation-of-sap-vulnerability-cve-2025-31324
 https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow
 https://opencanary.readthedocs.io/en/latest/starting/configuration.html#services-configuration
 https://outflank.nl/blog/2018/01/16/hunting-for-evil-detect-macros-being-executed/
+https://outpost24.com/blog/crushftp-auth-bypass-vulnerability/
 https://owasp.org/www-community/vulnerabilities/Expression_Language_Injection
 https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing
 https://owasp.org/www-pdf-archive/Shellshock_-_Tudor_Enache.pdf
@@ -2596,6 +2611,7 @@ https://redmimicry.com
 https://redmimicry.com/posts/redmimicry-winnti/
 https://redmimicry.com/posts/redmimicry-winnti/#dropper
 https://regex101.com/r/RugQYK/1
+https://reliaquest.com/blog/threat-spotlight-reliaquest-uncovers-vulnerability-behind-sap-netweaver-compromise/
 https://renenyffenegger.ch/notes/Windows/registry/tree/HKEY_CURRENT_USER/Keyboard-Layout/Preload/index
 https://reqrypt.org/windivert-doc.html
 https://res.armor.com/resources/threat-intelligence/astaroth-banking-trojan/
@@ -2667,6 +2683,7 @@ https://securelist.com/my-name-is-dtrack/93338/
 https://securelist.com/network-tunneling-with-qemu/111803/
 https://securelist.com/operation-triangulation/109842/
 https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831
+https://securelist.com/passiveneuron-campaign-with-apt-implants-and-cobalt-strike/117745/
 https://securelist.com/scarcruft-surveilling-north-korean-defectors-and-human-rights-activists/105074/
 https://securelist.com/schroedingers-petya/78870/
 https://securelist.com/the-epic-turla-operation/65545/
