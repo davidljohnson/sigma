@@ -143,6 +143,7 @@ https://app.any.run/tasks/d6fe6624-6ef8-485d-aa75-3d1bdda2a08c/
 https://app.any.run/tasks/d860402c-3ff4-4c1f-b367-0237da714ed1/
 https://app.any.run/tasks/e13ab713-64cf-4b23-ad93-6dceaa5429ac/
 https://app.any.run/tasks/e1fe6a62-bce8-4323-a49a-63795d9afd5d/
+https://app.any.run/tasks/ea944b89-69d8-49c8-ac1f-5c76ad300db2
 https://app.any.run/tasks/ec207948-4916-47eb-a0f4-4c6abb2e7668/
 https://app.any.run/tasks/f420d295-0457-4e9b-9b9e-6732be227583/
 https://app.any.run/tasks/f74c5157-8508-4ac6-9805-d63fe7b0d399/
@@ -172,6 +173,7 @@ https://attackerkb.com/topics/2faW2CxJgQ/cve-2023-4966
 https://attackerkb.com/topics/Bkij5kK1qK/cve-2022-21587/rapid7-analysis
 https://attackerkb.com/topics/SSTk336Tmf/cve-2024-3400/rapid7-analysis
 https://awakesecurity.com/blog/threat-hunting-for-paexec/
+https://awscli.amazonaws.com/v2/documentation/api/2.14.0/reference/account/enable-region.html
 https://bad-jubies.github.io/RCE-NOW-WHAT/
 https://badoption.eu/blog/2023/01/31/code_c2.html
 https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
@@ -326,6 +328,7 @@ https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
+https://cert.gov.ua/article/6277849
 https://chromeenterprise.google/policies/?policy=DnsOverHttpsMode
 https://chromium.googlesource.com/chromium/chromium/+/master/content/public/common/content_switches.cc
 https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/
@@ -444,6 +447,7 @@ https://docs.aws.amazon.com/AmazonECS/latest/APIReference/API_RegisterTaskDefini
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html
 https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_DeleteDBCluster.html
 https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_ModifyDBCluster.html
+https://docs.aws.amazon.com/AmazonS3/latest/API/API_DeleteBucket.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_Operations.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_PutBucketEncryption.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_PutBucketLogging.html
@@ -894,6 +898,7 @@ https://github.com/D1rkMtr/UnhookingPatch
 https://github.com/D4Vinci/One-Lin3r/blob/9fdfa5f0b9c698dfbd4cdfe7d2473192777ae1c6/one_lin3r/core/liners/windows/cmd/dll_loader_word.py
 https://github.com/dafthack/DomainPasswordSpray/blob/b13d64a5834694aa73fd2aea9911a83027c465a7/DomainPasswordSpray.ps1
 https://github.com/dagwieers/vsftpd/
+https://github.com/DambergC/SaveFolder/blob/90e945eba80fae85f2d54b4616e05a44ec90c500/Cygate%20Installation%20tool%206.22/Script/OSD/OSDeployment-CredentialGuardDisable.ps1#L50
 https://github.com/danielbohannon/Invoke-DOSfuscation
 https://github.com/danielbohannon/Invoke-Obfuscation
 https://github.com/danielbohannon/Invoke-Obfuscation/blob/f20e7f843edd0a3a7716736e9eddfa423395dd26/Out-ObfuscatedStringCommand.ps1#L873-L888
@@ -1175,6 +1180,7 @@ https://github.com/ossec/ossec-hids/blob/1ecffb1b884607cb12e619f9ab3c04f53080108
 https://github.com/ossec/ossec-hids/blob/1ecffb1b884607cb12e619f9ab3c04f530801083/etc/rules/clam_av_rules.xml
 https://github.com/ossec/ossec-hids/blob/1ecffb1b884607cb12e619f9ab3c04f530801083/etc/rules/named_rules.xml
 https://github.com/ossec/ossec-hids/blob/1ecffb1b884607cb12e619f9ab3c04f530801083/etc/rules/sshd_rules.xml
+https://github.com/ossec/ossec-hids/blob/f6502012b7380208db81f82311ad4a1994d39905/etc/rules/syslog_rules.xml
 https://github.com/OTRF/detection-hackathon-apt29
 https://github.com/OTRF/detection-hackathon-apt29/issues/1
 https://github.com/OTRF/detection-hackathon-apt29/issues/12
@@ -1645,6 +1651,7 @@ https://github.com/topotam/PetitPotam
 https://github.com/topotam/PetitPotam/blob/d83ac8f2dd34654628c17490f99106eb128e7d1e/PetitPotam/PetitPotam.cpp
 https://github.com/trustedsec/SysmonCommunityGuide/blob/adcdfee20999f422b974c8d4149bf4c361237db7/chapters/file-stream-creation-hash.md
 https://github.com/Twigonometry/Cybersecurity-Notes/blob/c875b0f52df7d2c7a870e75e1f0c2679d417931d/Writeups/Hack%20the%20Box/Boxes/Optimum/10%20-%20Website.md
+https://github.com/TwoSevenOneT/WSASS/blob/2c8fd9fa32143e7bc9f066e9511c6f8a57bc64b5/WSASS.cpp#L251
 https://github.com/Tylous/ZipExec
 https://github.com/tyranid/DotNetToJScript
 https://github.com/usnistgov/macos_security/blob/932a51f3e819dd3e02ebfcf3ef433cfffafbe28b/rules/os/os_firmware_password_require.yaml
@@ -1891,6 +1898,7 @@ https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defen
 https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference
 https://learn.microsoft.com/en-us/dotnet/api/microsoft.hpc.scheduler.store.cx509enrollmentwebclassfactoryclass?view=hpc-sdk-5.1.6115
 https://learn.microsoft.com/en-us/dotnet/api/system.appdomain.load?view=net-7.0
+https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.eventing.reader.eventlogsession.clearlog?view=windowsdesktop-9.0&viewFallbackFrom=dotnet-plat-ext-5.0#System_Diagnostics_Eventing_Reader_EventLogSession_ClearLog_System_String_
 https://learn.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadfile?view=net-8.0
 https://learn.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadstring?view=net-8.0
 https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=net-8.0
@@ -2313,6 +2321,7 @@ https://man.openbsd.org/ssh_config#ProxyCommand
 https://man7.org/linux/man-pages/man1/ncat.1.html
 https://man7.org/linux/man-pages/man1/passwd.1.html
 https://man7.org/linux/man-pages/man2/mknod.2.html
+https://man7.org/linux/man-pages/man2/personality.2.html
 https://man7.org/linux/man-pages/man7/bpf-helpers.7.html
 https://man7.org/linux/man-pages/man8/getcap.8.html
 https://man7.org/linux/man-pages/man8/kmod.8.html
@@ -2920,6 +2929,7 @@ https://tria.ge/240225-jlylpafb24/behavioral1/analog?main_event=Registry&op=SetV
 https://tria.ge/240226-fhbe7sdc39/behavioral1
 https://tria.ge/240301-rk34sagf5x/behavioral2
 https://tria.ge/240307-1hlldsfe7t/behavioral2/analog?main_event=Registry&op=SetValueKeyInt
+https://tria.ge/240731-jh4crsycnb/behavioral2
 https://trustedsec.com/blog/adexplorer-on-engagements
 https://trustedsec.com/blog/oops-i-udld-it-again
 https://trustedsec.com/blog/specula-turning-outlook-into-a-c2-with-one-registry-change
@@ -3430,6 +3440,7 @@ https://web.archive.org/web/20230208123920/https://cyberwardog.blogspot.com/2017
 https://web.archive.org/web/20230217071802/https://blooteem.com/march-2022
 https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
 https://web.archive.org/web/20230329155141/https://blog.menasec.net/2019/03/threat-hunting-26-remote-windows.html
+https://web.archive.org/web/20230329163438/https://blog.menasec.net/2019/02/threat-hunting-5-detecting-enumeration.html
 https://web.archive.org/web/20230329170326/https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html
 https://web.archive.org/web/20230329171218/https://blog.menasec.net/2019/02/threat-hunting-3-detecting-psexec.html
 https://web.archive.org/web/20230329172447/https://blog.menasec.net/2019/02/threat-hunting-24-microsoft-windows-dns.html
@@ -3500,6 +3511,7 @@ https://www.bleepingcomputer.com/news/security/fortinet-says-ssl-vpn-pre-auth-rc
 https://www.bleepingcomputer.com/news/security/gootkit-malware-bypasses-windows-defender-by-setting-path-exclusions/
 https://www.bleepingcomputer.com/news/security/hackers-abuse-google-command-and-control-red-team-tool-in-attacks/
 https://www.bleepingcomputer.com/news/security/hackers-are-now-hiding-malware-in-windows-event-logs/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-windows-smartscreen-flaw-to-drop-darkgate-malware/
 https://www.bleepingcomputer.com/news/security/hackers-now-use-microsoft-onenote-attachments-to-spread-malware/
 https://www.bleepingcomputer.com/news/security/hhsgov-open-redirect-used-by-coronavirus-phishing-to-spread-malware/
 https://www.bleepingcomputer.com/news/security/iobit-forums-hacked-to-spread-ransomware-to-its-members/
@@ -3658,6 +3670,7 @@ https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/wp-m-unc2452-2021-0003
 https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-windows-management-instrumentation.pdf
 https://www.first.org/resources/papers/conf2017/Advanced-Incident-Detection-and-Threat-Hunting-using-Sysmon-and-Splunk.pdf
 https://www.forensafe.com/blogs/runmrukey.html
+https://www.fortiguard.com/psirt/FG-IR-24-535
 https://www.fortiguard.com/threat-signal-report/4718?s=09
 https://www.fortinet.com/blog/threat-research/enter-the-darkgate-new-cryptocurrency-mining-and-ransomware-campaign
 https://www.fortinet.com/blog/threat-research/konni-campaign-distributed-via-malicious-document
@@ -3776,6 +3789,7 @@ https://www.malwarebytes.com/blog/detections/pum-optional-nodispbackgroundpage
 https://www.malwarebytes.com/blog/detections/pum-optional-nodispcpl
 https://www.malwarebytes.com/blog/detections/pup-optional-onelaunch-silentcf
 https://www.malwarebytes.com/blog/news/2014/01/the-rtlo-method
+https://www.man7.org/linux/man-pages/man1/systemctl.1.html
 https://www.manageengine.com/log-management/cyber-security/access-token-manipulation.html
 https://www.manageengine.com/products/desktop-central/os-imaging-deployment/media-is-write-protected.html
 https://www.manageengine.com/products/self-service-password/kb/how-to-fix-authentication-bypass-vulnerability-in-REST-API.html
@@ -3817,6 +3831,7 @@ https://www.microsoft.com/en-us/security/blog/2022/07/26/malicious-iis-extension
 https://www.microsoft.com/en-us/security/blog/2022/10/18/defenders-beware-a-case-for-post-ransomware-investigations/
 https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector/
 https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/
+https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/
 https://www.microsoft.com/en-us/security/blog/2023/03/24/guidance-for-investigating-attacks-using-cve-2023-23397/
 https://www.microsoft.com/en-us/security/blog/2023/04/11/guidance-for-investigating-attacks-using-cve-2022-21894-the-blacklotus-campaign/
 https://www.microsoft.com/en-us/security/blog/2023/04/18/nation-state-threat-actor-mint-sandstorm-refines-tradecraft-to-attack-high-value-targets/
@@ -3889,6 +3904,7 @@ https://www.pdq.com/pdq-deploy/
 https://www.peew.pw/blog/2017/11/26/exploring-cmdkey-an-edge-case-for-privilege-escalation
 https://www.php.net/manual/en/features.commandline.php
 https://www.phpied.com/make-your-javascript-a-windows-exe/
+https://www.picussecurity.com/resource/blog/as-rep-roasting-attack-explained-mitre-attack-t1558.004
 https://www.picussecurity.com/resource/blog/how-to-detect-parent-pid-ppid-spoofing-attacks
 https://www.pingcastle.com/documentation/scanner/
 https://www.pinvoke.net/default.aspx/dbghelp/MiniDumpWriteDump.html
@@ -4198,6 +4214,7 @@ https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/
 https://www.welivesecurity.com/2020/01/31/winnti-group-targeting-universities-hong-kong/
 https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/
 https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/
+https://www.welivesecurity.com/2020/07/16/mac-cryptocurrency-trading-application-rebranded-bundled-malware/
 https://www.welivesecurity.com/2022/01/18/donot-go-do-not-respawn/
 https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
 https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/
